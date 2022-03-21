@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+0,Thunder Bay Transit,http://www.tbtransit.ca,America/Thunder_Bay,en,807-684-3744,http://www.thunderbay.ca/Living/Getting_Around/Thunder_Bay_Transit/Tickets_and_Passes.htm,
